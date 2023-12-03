@@ -1,0 +1,6 @@
+tests\e2e\AuthorizationPositiveTest.class
+tests\BaseTest$1.class
+tests\e2e\AuthorizationWithInvalidDataTest.class
+tests\ApplicationManager.class
+tests\BaseTest.class
+tests\e2e\AuthorizationWithEmptyFieldsTest.class

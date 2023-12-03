@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\HomePage.class
+pages\RegistrationPage.class
+pages\AuthorizationPage.class
+pages\User.class
+wait\Wait.class
+pages\ForgotPasswordPage.class
+pages\StartPage.class
